@@ -1,0 +1,36 @@
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.exe.config
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.exe
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.pdb
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.xml
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.AssemblyReference.cache
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Form1.resources
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Resources.resources
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.GenerateResource.cache
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.CoreCompileInputs.cache
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.exe
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.xml
+C:\Users\Lia Alfiyanti\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.pdb
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.exe.config
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.exe
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.pdb
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\bin\Debug\pembayaran_spp.xml
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.AssemblyReference.cache
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Form1.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Resources.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.GenerateResource.cache
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.vbproj.CoreCompileInputs.cache
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.exe
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.xml
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.pdb
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Admin.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.KelolaKelas.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.KelolaLaporan.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.KelolaPetugas.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.KelolaSiswa.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.KelolaSpp.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.TransaksiPembayaran.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Petugas.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.Siswa.resources
+C:\Users\ajid\source\repos\pembayaran_spp\pembayaran_spp\obj\Debug\pembayaran_spp.TransaksiPetugas.resources
